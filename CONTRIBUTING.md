@@ -9,8 +9,8 @@
 # Shoutout to our passionate contributors
 
 ```markdown
-#### Name: Bhoomika Wavhal
-- GitHub: https://github.com/wbhoomika/
+#### Name: Abhilash Sarangi
+- GitHub: https://github.com/dev1abhi/
 ```
 
 ```markdown
