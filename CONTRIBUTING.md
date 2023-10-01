@@ -12,3 +12,8 @@
 #### Name: Bhoomika Wavhal
 - GitHub: https://github.com/wbhoomika/
 ```
+
+```markdown
+#### Name: <First Ankush Dutta>
+- GitHub: https://github.com/GenDelta/
+```
