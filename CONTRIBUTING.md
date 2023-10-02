@@ -17,3 +17,8 @@
 #### Name: <First Ankush Dutta>
 - GitHub: https://github.com/GenDelta/
 ```
+
+```markdown
+#### Name: Gayathri Sankar
+- GitHub: https://github.com/gayathri-commits)https://github.com/gayathri-commits
+```
