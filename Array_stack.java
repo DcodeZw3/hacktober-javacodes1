@@ -19,6 +19,7 @@ public class Array_stack {
             Scanner scanner = new Scanner(System.in);
             System.out.print("Enter integer to be pushed: ");
             int x = scanner.nextInt();
+            scanner.close();
             top = top + 1;
             arr[top] = x;
             System.out.println(x + " has been pushed into the stack");
@@ -100,6 +101,7 @@ public class Array_stack {
                 default:
                     System.out.println("Invalid input");
             }
+            scanner.close();
         }
     }
 }
