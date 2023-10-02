@@ -14,15 +14,22 @@
 ```
 
 ```markdown
-#### Name: <First Ankush Dutta>
+#### Name: Ankush Dutta
 - GitHub: https://github.com/GenDelta/
 ```
 
 ```markdown
-#### Name: DibyashaktiMoharana
+#### Name: Dibyashakti Moharana
 - GitHub: https://github.com/DibyashaktiMoharana/
 ```
+
 ```markdown
-#### Name: KaustubhBiswas
+#### Name: Kaustubh Biswas
 - GitHub: https://github.com/KaustubhBiswas/
 ```
+
+```markdown
+#### Name: Rihan Akhtar
+- GitHub: https://github.com/devrihan/
+```
+
